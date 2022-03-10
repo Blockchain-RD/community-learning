@@ -1,29 +1,34 @@
 # Useful links
 
-## Golang
-(Golang documentation) [https://go.dev/doc/]
+### Installation Tutorials
 
-### Good practices 
-(Go code)[https://go.dev/doc/code])
-(Organizing go code)[https://go.dev/blog/organizing-go-code])
-(Effective Go)[https://go.dev/doc/effective_go]
+- [How To Install Golang On macOS (2021) ](https://www.youtube.com/watch?v=usr7FVTJn18)
+- [How to Install Go on Windows 10 (2021) ](https://www.youtube.com/watch?v=xYpqI7GRrvE)
+- [How to Install / Setup the Rust Programming Language on Windows 10 ](https://www.youtube.com/watch?v=enk0o7eWNsc)
+- [Rust Tutorial - How to install Rust in mac | Rust Language Tutorial ](https://www.youtube.com/watch?v=naIqMdRpuqg)
 
-(Manejando dependencias)[https://go.dev/doc/modules/managing-dependencies]
+### Documentations
 
-## RPC
-(Protobuff - Lenguaje de los mensajes en RPC)[https://developers.google.com/protocol-buffers/]
+- [Goland Documentation](https://go.dev/doc/)
+- [Docker Documentation](https://docs.docker.com/get-started/)
+- [Akash Cloud Documentation](https://docs.akash.network/)
+- [Github Actions CI/CD Documentation](https://docs.github.com/en/actions)
+- [Akash Deploy App CLI](https://docs.akash.network/guides/cli/part-1.-install-akash)
+- [Protobuf - RPC Message Language](https://developers.google.com/protocol-buffers/)
+- [gRPC - Data transfer between services/applications](https://grpc.io/docs/languages/go/quickstart/)
 
-(gRPC - Transferencia de data entre servicios/aplicaciones)[https://grpc.io/docs/languages/go/quickstart/]
+### Best Practices / Recomendations
 
-## Docker
-(Docker documentation)[https://docs.docker.com/get-started/]
+- [Golang Code](https://go.dev/doc/code)
+- [Organizing Golang Code](https://go.dev/blog/organizing-go-code)
+- [Effective Golang](https://go.dev/doc/effective_go)
+- [Managing Dependencies](https://go.dev/doc/modules/managing-dependencies)
 
-(How build own docker (how docker works in depth | how build my own docker))[https://youtu.be/8fi7uSYlOdc]
+### Tutorials
 
-## CI/CD
-(Github actions CI/CD)[https://docs.github.com/en/actions]
-
-## Akash/Cloud
-(Akash Cloud documentation)[https://docs.akash.network/]
-(Akash desplegar app CLI)[https://docs.akash.network/guides/cli/part-1.-install-akash]
+- [How build own docker (how docker works in depth | how build my own docker)](https://youtu.be/8fi7uSYlOdc)
+- [HackAtom VI - Dive into the Cosmos Ecosystem](https://www.youtube.com/watch?v=YLziYFKfvck)
+- [CosmWasm - Editing a Smart Contract Tutorial Part 1](https://www.youtube.com/watch?v=3JC-dK4MyVc&list=PLdQIb0qr3pnDme8QfQVJv2oCCEj3EVfHD)
+- [COSMOS (PLAYLIST) Code with us Workshop](https://www.youtube.com/watch?v=GfZjnMchKX0&list=PLdQIb0qr3pnBmrPOxVJ7GnfOMP6C5P9BN)
+- [HackAtom HCMC Workshop: Introduction to Building Blockchain with Starport (2021 | MAC) ](https://www.youtube.com/watch?v=5v_99QOU77A)
 
